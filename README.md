@@ -1,7 +1,6 @@
  -My name is Alaa Eddine Cherif.
  
- -I'm studying Software Engeneering at INSAT.
+ -I'm a 2nd year student at INSAT studying software engineering.
  
- -I'm currently learning backend development with Nodejs along with Reactjs on the frontend.
+ -I work part-time as a full-stack developer and always looking for ways to gain new experiences and better my qualifications.
  
- -I'm also interrested in learning about UX/UI design.
